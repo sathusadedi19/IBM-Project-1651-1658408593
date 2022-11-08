@@ -5,7 +5,7 @@ Airlines Data Analytics for Avaition Industry
 
  Data analytics is the technique of analyzing the raw data for making intelligent decisions. For airlines, data analytics is a powerful tool for continuing operations.
  
- -Team Lead - [Karthik](https://twitter.com/ryderisfree)</br>
- -Member 1  - Elavarasan</br>
- -Member 2  - Tippusultan</br>
- -Member 3  - Raghavan</br>
+ Team Lead - [Karthik](https://twitter.com/ryderisfree)</br>
+ Member 1  - Elavarasan</br>
+ Member 2  - Tippusultan</br>
+ Member 3  - Raghavan</br>
